@@ -10,14 +10,16 @@ mobile development, UI design, SEO, marketing etc. If you don't like that — yo
 Programming exercises are written in C, C++, Haskell, Python and JavaScript. Some may be written in Assembly, Prolog, SQL.
 Math, physical and chemical exercises are written in LaTeX.
 
+:warning: Most of the materials is in English, but there are also some in Russian. They are marked with :ru:.
+
 ## Table of contents
 
-- [Mathematics](#mathematics)
-  - [Mathematical Analysis](#mathematical-analysis)
-  - [Geometry](#geometry)
-  - [Abstract Algebra](#abstract-algebra)
-  - [Combinatorics and Probability](#combinatorics-and-probability)
-  - [Type Theory](#type-theory)
+- [Mathematical Analysis](#mathematical-analysis)
+- [Geometry](#geometry)
+- [Abstract Algebra](#abstract-algebra)
+- [Combinatorics and Probability](#combinatorics-and-probability)
+- [Type Theory](#type-theory)
+- [Lambda Calcus](#lambda-calcus)
 - [Physics](#physics)
   - [Mechanics](#mechanics)
   - [Dynamics](#dynamics)
@@ -64,35 +66,40 @@ Math, physical and chemical exercises are written in LaTeX.
 - [Build Automation](#build-automation)
 - [Resources](#resources)
 
-## Mathematics
+## Mathematical Analysis
 
-### Abstract Algebra
+- :pencil: **Articles**
+  - [Better Explained](https://betterexplained.com)
+    - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits)
+    - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
 
-- **Books**
+## Abstract Algebra
+
+- :book: **Books**
   - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 
-### Combinatorics and Probability
+## Combinatorics and Probability
 
-- **Courses**
+- :mortar_board: **Courses**
   - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) by Khan Academy
 
-### Type Theory
+## Type Theory
 
-- **Books**
+- :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
   
 ## Physics
 
 ### Mechanics
 
-- **Courses**
+- :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/science/physics)
     - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion)
     - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion)
   
 ### Dynamics
 
-- **Courses**
+- :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/science/physics)
     - [ ] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
     - [ ] [Centripetal Force and Gravitation](https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation)
@@ -102,7 +109,7 @@ Math, physical and chemical exercises are written in LaTeX.
     
 ## Chemistry
 
-- **Courses**
+- :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/science/chemistry)
     - [ ] [Chemical Equilibtrium](https://www.khanacademy.org/science/chemistry/chemical-equilibrium)
     - [ ] [Acids and Bases](https://www.khanacademy.org/science/chemistry/acids-and-bases-topic)
@@ -112,9 +119,9 @@ Math, physical and chemical exercises are written in LaTeX.
   
 ## Data Structures
 
-- **Articles**
+- :pencil: **Articles**
   - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics) by Algosaurus
-- **Courses**
+- :mortar_board: **Courses**
   - [ ] [Data Structures](https://www.coursera.org/learn/data-structures) by Coursera
 
 ## Algorithms
@@ -123,29 +130,34 @@ Math, physical and chemical exercises are written in LaTeX.
 
 #### Sorting
 
-- **Articles**
+- :pencil: **Articles**
   - [x] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) by Toptal
   - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms) by Better Explained
 
 ### Complexity
 
-- **Articles**
+- :pencil: **Articles**
   - [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity) by Algosaurus
   
 ## Programming Languages
 
 ### Python
 
-- **Courses**
+- :mortar_board: **Courses**
   - [ ] [Learn Python](https://www.codecademy.com/learn/python) by Codecademy
   
 ### JavaScript
 
-- **Courses**
+- :mortar_board: **Courses**
   - [Codecademy](https://www.codecademy.com)
     - [ ] [JavaScript](https://www.codecademy.com/learn/javascript)
     - [ ] [JQuery](https://www.codecademy.com/learn/jquery)
     - [x] [AngularJS](https://www.codecademy.com/learn/learn-angularjs)
+    
+### Haskell
+
+- :book: **Books**
+  - :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
 
 ## Resources
 
@@ -162,3 +174,4 @@ You can find more courses, articles, videos etc here:
 Forums, Q&A:
 
 - [StackOverflow](http://stackoverflow.com)
+- :ru: [Toster](https://toster.ru)
