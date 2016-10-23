@@ -5,7 +5,7 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
 As I am studying for a degree in geophysics, this study plan includes enough math, physics and chemistry, and no web development,
-mobile development, UI design, SEO, marketing etc. If you don't like that — you can fork the repo and make your own plan.
+mobile development, UI design, SEO, marketing etc.
 
 Programming exercises are written in C, C++, Haskell, Python and JavaScript. Some may be written in Assembly, Prolog, SQL.
 Math, physical and chemical exercises are written in LaTeX.
