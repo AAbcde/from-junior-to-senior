@@ -40,14 +40,12 @@ Math and physics exercises are written in LaTeX.
 - [Cryptography](#cryptography)
 - [Programming Paradigms](#programming-paradigms)
   - [Object-Oriented Programming](#object-oriented-programming)
-  - [Functional Programmin](#functional-programming)
+  - [Functional Programming](#functional-programming)
 - [Programming Languages](#programming-languages)
   - [C/C++](#cc)
   - [Python](#python)
   - [JavaScript](#javascript)
-  - [Java](#java)
   - [Haskell](#haskell)
-  - [Rust](#rust)
 - [Testing](#testing)
   - [TDD](#tdd)
 - [Source Code Version Control](#source-code-version-control)
@@ -60,49 +58,59 @@ Math and physics exercises are written in LaTeX.
 ### Abstract Algebra
 
 - **Books**
-  - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813)
+  - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
 
 ### Combinatorics and Probability
 
 - **Courses**
-  - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
+  - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) by Khan Academy
 
 ### Type Theory
 
 - **Books**
-  - [ ] [Homotopy Type Theory](https://homotopytypetheory.org)
+  - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
   
 ## Physics
 
 ### Mechanics
 
 - **Courses**
-  - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion)
-  - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion)
+  - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion) by Khan Academy
+  - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion) by Khan Academy
   
 ### Dynamics
 
 - **Courses**
-  - [ ] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
+  - [ ] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws) by Khan Academy
   
 ## Data Structures
 
 - **Articles**
-  - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics) (level 1)
+  - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics) by Algosaurus
+- **Courses**
+  - [ ] [Data Structures](https://www.coursera.org/learn/data-structures) by Coursera
 
 ## Algorithms
+
+### Basic algorithms
+
+#### Sorting
+
+- **Articles**
+  - [x] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) by Toptal
+  - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms) by Better Explained
 
 ### Complexity
 
 - **Articles**
-  - [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity) (level 1)
+  - [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity) by Algosaurus
   
 ## Programming Languages
 
 ### Python
 
 - **Courses**
-  - [ ] [Learn Python](https://www.codecademy.com/learn/python)
+  - [ ] [Learn Python](https://www.codecademy.com/learn/python) by Codecademy
   
 ### JavaScript
 
