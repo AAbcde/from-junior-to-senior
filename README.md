@@ -138,6 +138,7 @@ Math, physical and chemical exercises are written in LaTeX.
 
 - :pencil: **Articles**
   - [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity) by Algosaurus
+  - [ ] [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
   
 ## Programming Languages
 
