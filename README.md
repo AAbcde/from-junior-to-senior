@@ -7,7 +7,8 @@ My study plan for going from junior to senior software developer (i. e. from lev
 As I am studying for a degree in geophysics, this study plan includes enough math, physics and chemistry, and no web development,
 mobile development, UI design, SEO, marketing etc. If you don't like that — you can fork the repo and make your own plan.
 
-Programming exercises are written in C, C++, Haskell, Python and JavaScript. Math, physical and chemical exercises are written in LaTeX.
+Programming exercises are written in C, C++, Haskell, Python and JavaScript. Some may be written in Assembly, Prolog, SQL.
+Math, physical and chemical exercises are written in LaTeX.
 
 ## Table of contents
 
@@ -40,7 +41,7 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
 - [Programming Paradigms](#programming-paradigms)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
-  - [Metaprogramming](#metaprogramming)
+  - [Logic Programming](#logic-programming)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
   - [Compilers and Interpreters](#compilers-and-interpreters)
@@ -49,6 +50,11 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
       - [AOT and JIT compilers](#aot-and-jit-compilers)
     - [Interpreters](#interpreters)
       - [Bytecode Interpreters (Virtual Machines)](#bytecode-interpreters-virtual-machines)
+- [Databases](#databases)
+  - [SQL Databases](#sql-databases)
+    - [SQL](#sql)
+  - [NoSQL Databases](#nosql-databases)
+- [Parallel and Concurrent Programming](#parallel-and-concurrent-programming)
 - [Cryptography](#cryptography)
 - [Testing](#testing)
   - [TDD](#tdd)
