@@ -31,6 +31,15 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
     - [Sorting](#sorting)
     - [Searching](#searching)
   - [Complexity](#complexity)
+- [Programming Languages](#programming-languages)
+  - [C/C++](#cc)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Haskell](#haskell)
+- [Programming Paradigms](#programming-paradigms)
+  - [Object-Oriented Programming](#object-oriented-programming)
+  - [Functional Programming](#functional-programming)
+  - [Metaprogramming](#metaprogramming)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
   - [Compilers and Interpreters](#compilers-and-interpreters)
@@ -40,21 +49,13 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
     - [Interpreters](#interpreters)
       - [Bytecode Interpreters (Virtual Machines)](#bytecode-interpreters-virtual-machines)
 - [Cryptography](#cryptography)
-- [Programming Paradigms](#programming-paradigms)
-  - [Object-Oriented Programming](#object-oriented-programming)
-  - [Functional Programming](#functional-programming)
-  - [Metaprogramming](#metaprogramming)
-- [Programming Languages](#programming-languages)
-  - [C/C++](#cc)
-  - [Python](#python)
-  - [JavaScript](#javascript)
-  - [Haskell](#haskell)
 - [Testing](#testing)
   - [TDD](#tdd)
 - [Source Code Version Control](#source-code-version-control)
   - [Git](#git)
   - [Mercurial](#mercurial)
 - [Build Automation](#build-automation)
+- [Resources](#resources)
 
 ## Mathematics
 
@@ -122,3 +123,19 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
     - [ ] [JavaScript](https://www.codecademy.com/learn/javascript)
     - [ ] [JQuery](https://www.codecademy.com/learn/jquery)
     - [x] [AngularJS](https://www.codecademy.com/learn/learn-angularjs)
+
+## Resources
+
+You can find more courses, articles, videos etc here:
+
+- [Coursera](https://www.coursera.org)
+- [Khan Academy](https://www.khanacademy.org)
+- [Codecademy](https://www.codecademy.com)
+- [Curiosity Driven](https://curiosity-driven.org)
+- [Better Explained](https://betterexplained.com)
+- [StackOverflow Documentation](http://stackoverflow.com/documentation)
+- [DevDocs](http://devdocs.io)
+
+Forums, Q&A:
+
+- [StackOverflow](http://stackoverflow.com)
