@@ -4,10 +4,10 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-As I am studying for a degree in geophysics, this study plan includes enough math and physics and no web development, mobile
-development, UI design, SEO, marketing etc. If you don't like that — you can fork the repo and make your own plan.
+As I am studying for a degree in geophysics, this study plan includes enough math, physics and chemistry, and no web development,
+mobile development, UI design, SEO, marketing etc. If you don't like that — you can fork the repo and make your own plan.
 
-Programming exercises are written in C, C++, Haskell, Python and JavaScript. Math and physics exercises are written in LaTeX.
+Programming exercises are written in C, C++, Haskell, Python and JavaScript. Math, physical and chemical exercises are written in LaTeX.
 
 ## Table of contents
 
@@ -20,6 +20,7 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
 - [Physics](#physics)
   - [Mechanics](#mechanics)
   - [Dynamics](#dynamics)
+- [Chemistry](#chemistry)
 - [Data Structures](#data-structures)
   - [Array](#array)
   - [Linked List](#linked-list)
@@ -79,19 +80,29 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
 ### Mechanics
 
 - **Courses**
-  - [Khan Academy](https://www.khanacademy.org)
+  - [Khan Academy](https://www.khanacademy.org/science/physics)
     - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion)
     - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion)
   
 ### Dynamics
 
 - **Courses**
-  - [Khan Academy](https://www.khanacademy.org)
+  - [Khan Academy](https://www.khanacademy.org/science/physics)
     - [ ] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
     - [ ] [Centripetal Force and Gravitation](https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation)
     - [ ] [Work and Energy](https://www.khanacademy.org/science/physics/work-and-energy)
     - [ ] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
     - [ ] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
+    
+## Chemistry
+
+- **Courses**
+  - [Khan Academy](https://www.khanacademy.org/science/chemistry)
+    - [ ] [Chemical Equilibtrium](https://www.khanacademy.org/science/chemistry/chemical-equilibrium)
+    - [ ] [Acids and Bases](https://www.khanacademy.org/science/chemistry/acids-and-bases-topic)
+    - [ ] [Buffers, Titrations, and Solubility Equilibria](https://www.khanacademy.org/science/chemistry/acid-base-equilibrium)
+    - [ ] [Thermodynamics](https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry)
+    - [ ] [Kinetics](https://www.khanacademy.org/science/chemistry/chem-kinetics)
   
 ## Data Structures
 
