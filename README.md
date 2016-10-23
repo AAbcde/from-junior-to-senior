@@ -4,14 +4,16 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-All programming exercises are written in C, C++, Haskell and Python. Some may also be written in Rust, JavaScript, Go.
+As I am studying for a degree in geophysics, this study plan includes enough math and physics and no web development, mobile
+development, UI design, SEO, marketing etc. If you don't like that — you can fork the repo and make your own plan.
 
-Math and physics exercises are written in LaTeX.
+Programming exercises are written in C, C++, Haskell, Python and JavaScript. Math and physics exercises are written in LaTeX.
 
 ## Table of contents
 
 - [Mathematics](#mathematics)
   - [Mathematical Analysis](#mathematical-analysis)
+  - [Geometry](#geometry)
   - [Abstract Algebra](#abstract-algebra)
   - [Combinatorics and Probability](#combinatorics-and-probability)
   - [Type Theory](#type-theory)
@@ -41,6 +43,7 @@ Math and physics exercises are written in LaTeX.
 - [Programming Paradigms](#programming-paradigms)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
+  - [Metaprogramming](#metaprogramming)
 - [Programming Languages](#programming-languages)
   - [C/C++](#cc)
   - [Python](#python)
