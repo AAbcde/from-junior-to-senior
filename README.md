@@ -79,13 +79,19 @@ Programming exercises are written in C, C++, Haskell, Python and JavaScript. Mat
 ### Mechanics
 
 - **Courses**
-  - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion) by Khan Academy
-  - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion) by Khan Academy
+  - [Khan Academy](https://www.khanacademy.org)
+    - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion)
+    - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion)
   
 ### Dynamics
 
 - **Courses**
-  - [ ] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws) by Khan Academy
+  - [Khan Academy](https://www.khanacademy.org)
+    - [ ] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
+    - [ ] [Centripetal Force and Gravitation](https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation)
+    - [ ] [Work and Energy](https://www.khanacademy.org/science/physics/work-and-energy)
+    - [ ] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
+    - [ ] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
   
 ## Data Structures
 
