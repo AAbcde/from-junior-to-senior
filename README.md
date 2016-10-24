@@ -14,7 +14,7 @@ Math, physical and chemical exercises are written in LaTeX.
 
 ## Table of contents
 
-- [Mathematical Analysis](#mathematical-analysis)
+- [Calculus](#calculus)
 - [Geometry](#geometry)
 - [Abstract Algebra](#abstract-algebra)
 - [Combinatorics and Probability](#combinatorics-and-probability)
@@ -66,12 +66,20 @@ Math, physical and chemical exercises are written in LaTeX.
 - [Build Automation](#build-automation)
 - [Resources](#resources)
 
-## Mathematical Analysis
+## Calculus
 
 - :pencil: **Articles**
   - [Better Explained](https://betterexplained.com)
     - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits)
     - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
+- :mortar_board: **Courses**
+  - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
+    - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
+    - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
+    - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
+    - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
+    - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
+    - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
 
 ## Abstract Algebra
 
