@@ -15,6 +15,7 @@ Math, physical and chemical exercises are written in LaTeX.
 ## Table of contents
 
 - [Calculus](#calculus)
+- [Functional Analysis](#functional-analysis)
 - [Geometry](#geometry)
 - [Abstract Algebra](#abstract-algebra)
 - [Combinatorics and Probability](#combinatorics-and-probability)
@@ -69,9 +70,7 @@ Math, physical and chemical exercises are written in LaTeX.
 ## Calculus
 
 - :pencil: **Articles**
-  - [Better Explained](https://betterexplained.com)
-    - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits)
-    - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
+  - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
     - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
@@ -80,6 +79,11 @@ Math, physical and chemical exercises are written in LaTeX.
     - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
     - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
     - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
+    
+## Functional Analysis
+
+- :pencil: **Articles**
+  - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by Better Explained
 
 ## Abstract Algebra
 
