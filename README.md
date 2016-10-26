@@ -65,6 +65,7 @@ Math, physical and chemical exercises are written in LaTeX.
   - [Git](#git)
   - [Mercurial](#mercurial)
 - [Build Automation](#build-automation)
+- [See also](#see-also)
 - [Resources](#resources)
 
 ## Calculus
@@ -171,6 +172,10 @@ Math, physical and chemical exercises are written in LaTeX.
 
 - :book: **Books**
   - :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
+
+## See also
+- [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
+- [What happens when...](https://github.com/alex/what-happens-when) — an attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
 ## Resources
 
