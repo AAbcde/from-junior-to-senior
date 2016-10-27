@@ -67,6 +67,7 @@ Math, physical and chemical exercises are written in LaTeX.
 - [Build Automation](#build-automation)
 - [See also](#see-also)
 - [Resources](#resources)
+- [Online Tools](#online-tools)
 
 ## Calculus
 
@@ -193,3 +194,12 @@ Forums, Q&A:
 
 - [StackOverflow](http://stackoverflow.com)
 - :ru: [Toster](https://toster.ru)
+
+## Online Tools
+
+- Solving math problems
+  - [Wolfram Alpha](http://www.wolframalpha.com/) — a computational knowledge engine
+- Coding
+  - [Codepen](http://codepen.io/) - a playground for the front end side of the web
+  - [Ideone](http://ideone.com/) - a free online IDE, compiler and debugging tool
+  - [Cloud9](https://c9.io) - a development environment in the cloud
