@@ -176,6 +176,7 @@ Math, physical and chemical exercises are written in LaTeX.
 
 ## See also
 - [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) — a complete daily plan for studying to become a machine learning engineer (inspired by Google Interview University)
 - [What happens when...](https://github.com/alex/what-happens-when) — an attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
 ## Resources
@@ -200,6 +201,6 @@ Forums, Q&A:
 - Solving math problems
   - [Wolfram Alpha](http://www.wolframalpha.com/) — a computational knowledge engine
 - Coding
-  - [Codepen](http://codepen.io/) - a playground for the front end side of the web
-  - [Ideone](http://ideone.com/) - a free online IDE, compiler and debugging tool
-  - [Cloud9](https://c9.io) - a development environment in the cloud
+  - [Codepen](http://codepen.io/) — a playground for the front end side of the web
+  - [Ideone](http://ideone.com/) — a free online IDE, compiler and debugging tool
+  - [Cloud9](https://c9.io) — a development environment in the cloud
