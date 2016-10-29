@@ -118,7 +118,7 @@ Math, physical and chemical exercises are written in LaTeX.
     - [x] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
     - [x] [Centripetal Force and Gravitation](https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation)
     - [x] [Work and Energy](https://www.khanacademy.org/science/physics/work-and-energy)
-    - [ ] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
+    - [x] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
     - [ ] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
     - [ ] [Oscillations and Mechanical Waves](https://www.khanacademy.org/science/physics/mechanical-waves-and-sound)
     
