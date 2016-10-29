@@ -191,6 +191,12 @@ You can find more courses, articles, videos etc here:
 - [StackOverflow Documentation](http://stackoverflow.com/documentation)
 - [DevDocs](http://devdocs.io)
 
+[Wikimedia Foundation](https://www.wikimedia.org/) projects:
+
+- [Wikipedia](https://www.wikipedia.org) — a free online encyclopedia
+- [Wikibooks](https://www.wikibooks.org/) — a collection of free textbooks
+- [Wikiversity](https://www.wikiversity.org/) — a collection of tutorials and courses
+
 Forums, Q&A:
 
 - [StackOverflow](http://stackoverflow.com)
