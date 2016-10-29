@@ -130,6 +130,7 @@ Math, physical and chemical exercises are written in LaTeX.
     - [ ] [Acids and Bases](https://www.khanacademy.org/science/chemistry/acids-and-bases-topic)
     - [ ] [Buffers, Titrations, and Solubility Equilibria](https://www.khanacademy.org/science/chemistry/acid-base-equilibrium)
     - [ ] [Thermodynamics](https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry)
+    - [ ] [Redox Reactions and Electrochemistry](https://www.khanacademy.org/science/chemistry/oxidation-reduction)
     - [ ] [Kinetics](https://www.khanacademy.org/science/chemistry/chem-kinetics)
   
 ## Data Structures
