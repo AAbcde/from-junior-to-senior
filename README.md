@@ -91,6 +91,13 @@ Math, physical and chemical exercises are written in LaTeX.
 
 - :book: **Books**
   - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
+  
+<details>
+<summary>Practice</summary>
+**Exercise #1**
+
+Proof that a function is *surjective* if and only if it is an *epimorphism*.
+</details>
 
 ## Combinatorics and Probability
 
@@ -184,7 +191,7 @@ for the wheel to be in rotational equilibrium?
 ### Haskell
 
 - :book: **Books**
-  - :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
+  - [ ] :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
 
 ## See also
 - [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
