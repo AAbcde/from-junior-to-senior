@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
 FORMAT="pdf"
 BUILD_DIR="build"
 
@@ -19,7 +21,8 @@ do
     esac
 done
 
-for file in *.tex
+for file in $(find . -name *.tex)
 do
-    pdflatex $file -output-directory=$BUILD_DIR -output-format=$FORMAT
+    echo $file
+    pdflatex $file -output-directory=$DIR/$BUILD_DIR -output-format=$FORMAT
 done
