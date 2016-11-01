@@ -3,7 +3,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 FORMAT="pdf"
-BUILD_DIR="build"
+BUILD_DIR="$DIR/build"
 
 while getopts "o:f:h" opt
 do
@@ -21,8 +21,10 @@ do
     esac
 done
 
+echo $DIR $FORMAT $BUILD_DIR
+
 for file in $(find . -name *.tex)
 do
     echo $file
-    pdflatex $file -output-directory=$DIR/$BUILD_DIR -output-format=$FORMAT
+    pdflatex $file -output-directory=$BUILD_DIR -output-format=$FORMAT -include-directory=$DIR
 done
