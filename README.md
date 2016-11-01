@@ -132,12 +132,13 @@ Proof that a function is *surjective* if and only if it is an *epimorphism*.
 
 <details>
 <summary>Practice</summary>
+[Solutions](https://github.com/KolesnichenkoDS/from-junior-to-senior/blob/master/practice/physics/dynamics.tex)
+
 **Exercise #1**
 
 Consider the wheel shown in the picture, acted on by two forces. What magnitude
 of the force F<sub>2</sub> will be required for the wheel to be in rotational
 equilibrium?
-([solution](https://github.com/KolesnichenkoDS/from-junior-to-senior/blob/master/practice/physics/dynamics.tex))
 
 ![Exercise 1](https://rawgit.com/KolesnichenkoDS/from-junior-to-senior/master/practice/physics/img/torque-angular-momentum-ex1.png)
 </details>
