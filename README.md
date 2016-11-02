@@ -59,7 +59,9 @@ Math, physical and chemical exercises are written in LaTeX.
     - [SQL](#sql)
   - [NoSQL Databases](#nosql-databases)
 - [Parallel and Concurrent Programming](#parallel-and-concurrent-programming)
-- [Cryptography](#cryptography)
+- [Security](#security)
+  - [Cryptography](#cryptography)
+  - [Web Applications Security](#web-applications-security)
 - [Testing](#testing)
   - [TDD](#tdd)
 - [Source Code Version Control](#source-code-version-control)
@@ -201,6 +203,13 @@ equilibrium?
 
 - :book: **Books**
   - [ ] :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
+
+## Security
+
+### Web Applications Security
+
+- :mortar_board: **Courses**
+  - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 
 ## See also
 - [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
