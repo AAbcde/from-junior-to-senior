@@ -243,6 +243,7 @@ Forums, Q&A:
 
 - Solving math problems
   - [Wolfram Alpha](http://www.wolframalpha.com/) — a computational knowledge engine
+  - [Symbolab](https://www.symbolab.com/) — a step by step calculator
 - Coding
   - [Codepen](http://codepen.io/) — a playground for the front end side of the web
   - [Ideone](http://ideone.com/) — a free online IDE, compiler and debugging tool
