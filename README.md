@@ -49,12 +49,15 @@ Math, physical and chemical exercises are written in LaTeX.
   - [Logic Programming](#logic-programming)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
+    - [Linux](#linux)
+    - [Windows](#windows)
   - [Compilers and Interpreters](#compilers-and-interpreters)
     - [Compilers](#compilers)
       - [Static compilers](#static-compilers)
       - [AOT and JIT compilers](#aot-and-jit-compilers)
     - [Interpreters](#interpreters)
       - [Bytecode Interpreters (Virtual Machines)](#bytecode-interpreters-virtual-machines)
+- [Networks](#networks)
 - [Databases](#databases)
   - [SQL Databases](#sql-databases)
     - [SQL](#sql)
@@ -218,6 +221,19 @@ equilibrium?
 
 - :book: **Books**
   - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
+  
+#### Linux
+
+- :pencil: **Articles**
+  - [ ] [Writing Device Drivers in Linux: A Brief Tutorial](http://freesoftwaremagazine.com/articles/drivers_linux/) by Free Software Magazine
+  
+- :book: **Books**
+  - [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
+
+## Networks
+
+- :book: **Books**
+  - [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew S. Tanenbaum
 
 ## Security
 
