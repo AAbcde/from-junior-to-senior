@@ -229,7 +229,7 @@ equilibrium?
 ### Web Applications Security
 
 - :mortar_board: **Courses**
-  - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
+  - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 
 ## See also
 - [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
