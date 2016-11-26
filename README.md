@@ -17,6 +17,7 @@ Math, physical and chemical exercises are written in LaTeX.
 - [Calculus](#calculus)
 - [Functional Analysis](#functional-analysis)
 - [Geometry](#geometry)
+  - [Analytic Geometry](#analytic-geometry)
 - [Abstract Algebra](#abstract-algebra)
 - [Combinatorics and Probability](#combinatorics-and-probability)
 - [Type Theory](#type-theory)
@@ -89,6 +90,13 @@ Math, physical and chemical exercises are written in LaTeX.
 
 - :pencil: **Articles**
   - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by Better Explained
+  
+## Geometry
+
+### Analytic Geometry
+
+- :mortar_board: **Courses**
+  - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by Khan Academy
 
 ## Abstract Algebra
 
@@ -204,7 +212,19 @@ equilibrium?
 - :book: **Books**
   - [ ] :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
 
+## Systems Programming
+
+### Operating Systems
+
+- :book: **Books**
+  - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
+
 ## Security
+
+### Cryptography
+
+- :mortar_board: **Courses**
+  - [ ] [Journey Into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) by Khan Academy
 
 ### Web Applications Security
 
@@ -223,7 +243,6 @@ You can find more courses, articles, videos etc here:
 - [Coursera](https://www.coursera.org)
 - [Khan Academy](https://www.khanacademy.org)
 - [Codecademy](https://www.codecademy.com)
-- [Curiosity Driven](https://curiosity-driven.org)
 - [Better Explained](https://betterexplained.com)
 - [StackOverflow Documentation](http://stackoverflow.com/documentation)
 - [DevDocs](http://devdocs.io)
@@ -241,10 +260,12 @@ Forums, Q&A:
 
 ## Online Tools
 
-- Solving math problems
+- Math
   - [Wolfram Alpha](http://www.wolframalpha.com/) — a computational knowledge engine
   - [Symbolab](https://www.symbolab.com/) — a step by step calculator
 - Coding
   - [Codepen](http://codepen.io/) — a playground for the front end side of the web
   - [Ideone](http://ideone.com/) — a free online IDE, compiler and debugging tool
   - [Cloud9](https://c9.io) — a development environment in the cloud
+  - [Repl.It](https://repl.it/) — a REPL, compiler & IDE
+  - [RunKit](https://runkit.com/) — a Node prototyping tool
