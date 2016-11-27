@@ -140,7 +140,7 @@ Proof that a function is *surjective* if and only if it is an *epimorphism*.
     - [x] [Centripetal Force and Gravitation](https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation)
     - [x] [Work and Energy](https://www.khanacademy.org/science/physics/work-and-energy)
     - [x] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
-    - [ ] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
+    - [x] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
     - [ ] [Oscillations and Mechanical Waves](https://www.khanacademy.org/science/physics/mechanical-waves-and-sound)
 
 <details>
