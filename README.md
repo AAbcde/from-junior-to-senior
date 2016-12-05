@@ -7,7 +7,7 @@ My study plan for going from junior to senior software developer (i. e. from lev
 As I am studying for a degree in geophysics, this study plan includes enough math, physics and chemistry, and no web development,
 mobile development, UI design, SEO, marketing etc.
 
-Programming exercises are written in C, C++, Haskell, Python and JavaScript. Some may be written in Assembly, Prolog, SQL.
+Programming exercises may be written in different languages: FASM, C, C++, Rust, Java, Python, JavaScript, Haskell, Prolog, SQL.
 Math, physical and chemical exercises are written in LaTeX.
 
 :warning: Most of the materials are in English, but there are also some in Russian. They are marked with :ru:.
@@ -19,9 +19,11 @@ Math, physical and chemical exercises are written in LaTeX.
 - [Geometry](#geometry)
   - [Analytic Geometry](#analytic-geometry)
 - [Abstract Algebra](#abstract-algebra)
+- [Category Theory](#category-theory)
 - [Combinatorics and Probability](#combinatorics-and-probability)
 - [Type Theory](#type-theory)
-- [Lambda Calcus](#lambda-calcus)
+- [Lambda Calculus](#lambda-calculus)
+  - [Typed Lambda Calculus](#typed-lambda-calculus)
 - [Physics](#physics)
   - [Mechanics](#mechanics)
   - [Dynamics](#dynamics)
@@ -57,17 +59,20 @@ Math, physical and chemical exercises are written in LaTeX.
       - [AOT and JIT compilers](#aot-and-jit-compilers)
     - [Interpreters](#interpreters)
       - [Bytecode Interpreters (Virtual Machines)](#bytecode-interpreters-virtual-machines)
+    - [Garbage Collectors](#garbage-collectors)
 - [Networks](#networks)
 - [Databases](#databases)
   - [SQL Databases](#sql-databases)
     - [SQL](#sql)
   - [NoSQL Databases](#nosql-databases)
 - [Parallel and Concurrent Programming](#parallel-and-concurrent-programming)
+  - [Actor Model](#actor-model)
 - [Security](#security)
   - [Cryptography](#cryptography)
   - [Web Applications Security](#web-applications-security)
 - [Testing](#testing)
   - [TDD](#tdd)
+  - [BDD](#bdd)
 - [Source Code Version Control](#source-code-version-control)
   - [Git](#git)
   - [Mercurial](#mercurial)
@@ -280,8 +285,8 @@ Forums, Q&A:
   - [Wolfram Alpha](http://www.wolframalpha.com/) — a computational knowledge engine
   - [Symbolab](https://www.symbolab.com/) — a step by step calculator
 - Coding
+  - [Cloud9](https://c9.io/) — a development environment in the cloud
   - [Codepen](http://codepen.io/) — a playground for the front end side of the web
   - [Ideone](http://ideone.com/) — a free online IDE, compiler and debugging tool
-  - [Cloud9](https://c9.io) — a development environment in the cloud
   - [Repl.It](https://repl.it/) — a REPL, compiler & IDE
   - [RunKit](https://runkit.com/) — a Node prototyping tool
