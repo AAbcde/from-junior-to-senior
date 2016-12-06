@@ -4,11 +4,7 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-As I am studying for a degree in geophysics, this study plan includes enough math, physics and chemistry, and no web development,
-mobile development, UI design, SEO, marketing etc.
-
-Programming exercises may be written in different languages: FASM, C, C++, Rust, Java, Python, JavaScript, Haskell, Prolog, SQL.
-Math, physical and chemical exercises are written in LaTeX.
+This study plan includes enough math and doesn't cover web development, mobile development, SEO, marketing etc.
 
 :warning: Most of the materials are in English, but there are also some in Russian. They are marked with :ru:.
 
@@ -24,10 +20,6 @@ Math, physical and chemical exercises are written in LaTeX.
 - [Type Theory](#type-theory)
 - [Lambda Calculus](#lambda-calculus)
   - [Typed Lambda Calculus](#typed-lambda-calculus)
-- [Physics](#physics)
-  - [Mechanics](#mechanics)
-  - [Dynamics](#dynamics)
-- [Chemistry](#chemistry)
 - [Data Structures](#data-structures)
   - [Array](#array)
   - [Linked List](#linked-list)
@@ -120,26 +112,6 @@ Math, physical and chemical exercises are written in LaTeX.
 
 - :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
-  
-## Physics
-
-### Mechanics
-
-- :mortar_board: **Courses**
-  - [Khan Academy](https://www.khanacademy.org/science/physics)
-    - [ ] [One-Dimensional Motion](https://www.khanacademy.org/science/physics/one-dimensional-motion)
-    - [ ] [Two-Dimensional Motion](https://www.khanacademy.org/science/physics/two-dimensional-motion)
-  
-### Dynamics
-
-- :mortar_board: **Courses**
-  - [Khan Academy](https://www.khanacademy.org/science/physics)
-    - [x] [Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
-    - [x] [Centripetal Force and Gravitation](https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation)
-    - [x] [Work and Energy](https://www.khanacademy.org/science/physics/work-and-energy)
-    - [x] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
-    - [x] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
-    - [ ] [Oscillations and Mechanical Waves](https://www.khanacademy.org/science/physics/mechanical-waves-and-sound)
 
 ## Chemistry
 
