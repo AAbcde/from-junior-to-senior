@@ -251,6 +251,8 @@ equilibrium?
 
 - :mortar_board: **Courses**
   - [ ] [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
+  - [ ] [Hacksplaining](https://www.hacksplaining.com/)
+  - [ ] [XSS Game](https://xss-game.appspot.com/)
 
 ## See also
 - [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
