@@ -110,13 +110,6 @@ Math, physical and chemical exercises are written in LaTeX.
 
 - :book: **Books**
   - [ ] [Algebra: Chapter 0](https://www.amazon.com/Algebra-Chapter-Graduate-Studies-Mathematics/dp/0821847813) by Paolo Aluffi
-  
-<details>
-<summary>Practice</summary>
-**Exercise #1**
-
-Proof that a function is *surjective* if and only if it is an *epimorphism*.
-</details>
 
 ## Combinatorics and Probability
 
@@ -147,19 +140,6 @@ Proof that a function is *surjective* if and only if it is an *epimorphism*.
     - [x] [Impacts and Linear Momentum](https://www.khanacademy.org/science/physics/linear-momentum)
     - [x] [Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
     - [ ] [Oscillations and Mechanical Waves](https://www.khanacademy.org/science/physics/mechanical-waves-and-sound)
-
-<details>
-<summary>Practice</summary>
-[Solutions](https://github.com/KolesnichenkoDS/from-junior-to-senior/blob/master/practice/physics/dynamics.tex)
-
-**Exercise #1**
-
-Consider the wheel shown in the picture, acted on by two forces. What magnitude
-of the force F<sub>2</sub> will be required for the wheel to be in rotational
-equilibrium?
-
-![Exercise 1](https://rawgit.com/KolesnichenkoDS/from-junior-to-senior/master/practice/physics/img/torque-angular-momentum-ex1.png)
-</details>
 
 ## Chemistry
 
