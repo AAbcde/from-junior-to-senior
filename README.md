@@ -34,9 +34,11 @@ This study plan includes enough math and doesn't cover web development, mobile d
 - [Programming Languages](#programming-languages)
   - [Assembly](#assebly)
   - [C/C++](#cc)
-  - [Python](#python)
-  - [JavaScript](#javascript)
   - [Haskell](#haskell)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+  - [Rust](#rust)
 - [Programming Paradigms](#programming-paradigms)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
@@ -112,17 +114,6 @@ This study plan includes enough math and doesn't cover web development, mobile d
 
 - :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
-
-## Chemistry
-
-- :mortar_board: **Courses**
-  - [Khan Academy](https://www.khanacademy.org/science/chemistry)
-    - [ ] [Chemical Equilibtrium](https://www.khanacademy.org/science/chemistry/chemical-equilibrium)
-    - [ ] [Acids and Bases](https://www.khanacademy.org/science/chemistry/acids-and-bases-topic)
-    - [ ] [Buffers, Titrations, and Solubility Equilibria](https://www.khanacademy.org/science/chemistry/acid-base-equilibrium)
-    - [ ] [Thermodynamics](https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry)
-    - [ ] [Redox Reactions and Electrochemistry](https://www.khanacademy.org/science/chemistry/oxidation-reduction)
-    - [ ] [Kinetics](https://www.khanacademy.org/science/chemistry/chem-kinetics)
   
 ## Data Structures
 
@@ -153,11 +144,11 @@ This study plan includes enough math and doesn't cover web development, mobile d
 
 - :book: **Books**
   - [x] :ru: [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C) by Wikibooks
+  
+### Haskell
 
-### Python
-
-- :mortar_board: **Courses**
-  - [ ] [Learn Python](https://www.codecademy.com/learn/python) by Codecademy
+- :book: **Books**
+  - [ ] :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
   
 ### JavaScript
 
@@ -166,11 +157,16 @@ This study plan includes enough math and doesn't cover web development, mobile d
     - [ ] [JavaScript](https://www.codecademy.com/learn/javascript)
     - [ ] [JQuery](https://www.codecademy.com/learn/jquery)
     - [x] [AngularJS](https://www.codecademy.com/learn/learn-angularjs)
-    
-### Haskell
+
+### Python
+
+- :mortar_board: **Courses**
+  - [ ] [Learn Python](https://www.codecademy.com/learn/python) by Codecademy
+  
+### Rust
 
 - :book: **Books**
-  - [ ] :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
+  - [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 ## Systems Programming
 
@@ -178,6 +174,7 @@ This study plan includes enough math and doesn't cover web development, mobile d
 
 - :book: **Books**
   - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
+  - [ ] [IntermezzOS](https://intermezzos.github.io/book/)
   
 #### Linux
 
@@ -207,6 +204,7 @@ This study plan includes enough math and doesn't cover web development, mobile d
   - [ ] [XSS Game](https://xss-game.appspot.com/)
 
 ## See also
+- [Open Source Society University](https://github.com/open-source-society/computer-science) — path to a free self-taught education in Computer Science
 - [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) — a complete daily plan for studying to become a machine learning engineer (inspired by Google Interview University)
 - [What happens when...](https://github.com/alex/what-happens-when) — an attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
