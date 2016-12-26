@@ -195,7 +195,7 @@ This study plan includes enough math and doesn't cover web development, mobile d
 ### POSIX Threads
 
 - :book: **Books**
-  [ ] [Programming with POSIX Threads](https://www.amazon.com/Programming-POSIX-Threads-David-Butenhof/dp/0201633922) by David R. Butenhof
+  - [ ] [Programming with POSIX Threads](https://www.amazon.com/Programming-POSIX-Threads-David-Butenhof/dp/0201633922) by David R. Butenhof
 
 ## Security
 
