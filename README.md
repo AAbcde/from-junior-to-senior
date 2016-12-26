@@ -59,7 +59,8 @@ This study plan includes enough math and doesn't cover web development, mobile d
   - [SQL Databases](#sql-databases)
     - [SQL](#sql)
   - [NoSQL Databases](#nosql-databases)
-- [Parallel and Concurrent Programming](#parallel-and-concurrent-programming)
+- [Concurrent Programming](#concurrent-programming)
+  - [POSIX Threads](#posix-threads)
   - [Actor Model](#actor-model)
 - [Security](#security)
   - [Cryptography](#cryptography)
@@ -188,6 +189,13 @@ This study plan includes enough math and doesn't cover web development, mobile d
 
 - :book: **Books**
   - [ ] [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) by Andrew S. Tanenbaum
+
+## Concurrent Programming
+
+### POSIX Threads
+
+- :book: **Books**
+  [ ] [Programming with POSIX Threads](https://www.amazon.com/Programming-POSIX-Threads-David-Butenhof/dp/0201633922) by David R. Butenhof
 
 ## Security
 
