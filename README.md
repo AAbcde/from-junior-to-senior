@@ -4,9 +4,16 @@ My study plan for going from junior to senior software developer (i. e. from lev
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-This study plan includes enough math and doesn't cover web development, mobile development, SEO, marketing etc.
+This study plan attemts to cover a lot of topics related to math and theoretical computer science, but
+it can miss some applied topics, like mobile or frontend development. Also this plan doesn't (and never
+will) include something related to SEO, advertising, marketing etc.
 
-:warning: Most of the materials are in English, but there are also some in Russian. They are marked with :ru:.
+## Usage
+
+1. Fork this repo
+2. Mark all items as undone
+3. Add missing topics (optional)
+4. Study!
 
 ## Table of contents
 
@@ -43,6 +50,7 @@ This study plan includes enough math and doesn't cover web development, mobile d
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
   - [Logic Programming](#logic-programming)
+- [Design Patterns](#design-patterns)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
     - [Linux](#linux)
@@ -61,6 +69,8 @@ This study plan includes enough math and doesn't cover web development, mobile d
   - [NoSQL Databases](#nosql-databases)
 - [Concurrent Programming](#concurrent-programming)
   - [POSIX Threads](#posix-threads)
+  - [Green Threads](#green-threads)
+  - [Coroutines](#coroutines)
   - [Actor Model](#actor-model)
 - [Security](#security)
   - [Cryptography](#cryptography)
@@ -175,6 +185,7 @@ This study plan includes enough math and doesn't cover web development, mobile d
 
 - :book: **Books**
   - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
+  - [ ] [Writing an OS in Rust](http://os.phil-opp.com/) by Philipp Oppermann
   - [ ] [IntermezzOS](https://intermezzos.github.io/book/)
   
 #### Linux
