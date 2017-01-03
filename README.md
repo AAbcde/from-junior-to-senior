@@ -24,22 +24,18 @@ will) include something related to SEO, advertising, marketing etc.
 - [Abstract Algebra](#abstract-algebra)
 - [Category Theory](#category-theory)
 - [Combinatorics and Probability](#combinatorics-and-probability)
+- [Discrete Mathematics](#discrete-mathematics)
+  - [Graph Theory](#graph-theory)
 - [Type Theory](#type-theory)
 - [Lambda Calculus](#lambda-calculus)
   - [Typed Lambda Calculus](#typed-lambda-calculus)
 - [Data Structures](#data-structures)
-  - [Array](#array)
-  - [Linked List](#linked-list)
-  - [Stack](#stack)
-  - [Queue](#queue)
-  - [Hash Table](#hash-table)
 - [Algorithms](#algorithms)
   - [Basic Algorithms](#basic-algorithms)
     - [Sorting](#sorting)
-    - [Searching](#searching)
   - [Complexity](#complexity)
 - [Programming Languages](#programming-languages)
-  - [Assembly](#assebly)
+  - [Assembly](#assembly)
   - [C/C++](#cc)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -121,6 +117,13 @@ will) include something related to SEO, advertising, marketing etc.
 - :mortar_board: **Courses**
   - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) by Khan Academy
 
+## Discrete Mathematics
+
+### Graph Theory
+
+- :mortar_board: **Courses**
+  - [ ] [Graph Theory](https://www.tutorialspoint.com/graph_theory/) by Tutorialspoint
+
 ## Type Theory
 
 - :book: **Books**
@@ -139,15 +142,17 @@ will) include something related to SEO, advertising, marketing etc.
 
 #### Sorting
 
+- :paperclip: **Cheat Sheets**
+  - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) by Toptal
 - :pencil: **Articles**
-  - [x] [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms) by Toptal
   - [ ] [Sorting Algorithms](https://betterexplained.com/articles/sorting-algorithms) by Better Explained
 
 ### Complexity
 
+- :paperclip: **Cheat Sheets**
+  - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
 - :pencil: **Articles**
   - [ ] [Algorithmic Complexity](http://algosaur.us/algorithmic-complexity) by Algosaurus
-  - [ ] [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
   
 ## Programming Languages
 
@@ -161,19 +166,6 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] :ru: [Haskell Book](https://anton-k.github.io/ru-haskell-book/book/home.html) by Anton Kholomiov
   
-### JavaScript
-
-- :mortar_board: **Courses**
-  - [Codecademy](https://www.codecademy.com)
-    - [ ] [JavaScript](https://www.codecademy.com/learn/javascript)
-    - [ ] [JQuery](https://www.codecademy.com/learn/jquery)
-    - [x] [AngularJS](https://www.codecademy.com/learn/learn-angularjs)
-
-### Python
-
-- :mortar_board: **Courses**
-  - [ ] [Learn Python](https://www.codecademy.com/learn/python) by Codecademy
-  
 ### Rust
 
 - :book: **Books**
@@ -183,9 +175,10 @@ will) include something related to SEO, advertising, marketing etc.
 
 ### Operating Systems
 
+- :pencil: **Articles**
+  - [ ] [Writing an OS in Rust](http://os.phil-opp.com/) by Philipp Oppermann
 - :book: **Books**
   - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
-  - [ ] [Writing an OS in Rust](http://os.phil-opp.com/) by Philipp Oppermann
   - [ ] [IntermezzOS](https://intermezzos.github.io/book/)
   
 #### Linux
