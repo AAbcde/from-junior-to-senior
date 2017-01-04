@@ -38,23 +38,21 @@ will) include something related to SEO, advertising, marketing etc.
   - [Assembly](#assembly)
   - [C/C++](#cc)
   - [Haskell](#haskell)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Python](#python)
   - [Rust](#rust)
 - [Programming Paradigms](#programming-paradigms)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Functional Programming](#functional-programming)
   - [Logic Programming](#logic-programming)
 - [Design Patterns](#design-patterns)
+- [Machine-Oriented Programming](#machine-oriented-programming)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
     - [Linux](#linux)
     - [Windows](#windows)
   - [Compilers and Interpreters](#compilers-and-interpreters)
     - [Compilers](#compilers)
-      - [Static compilers](#static-compilers)
-      - [AOT and JIT compilers](#aot-and-jit-compilers)
+      - [Static Compilers](#static-compilers)
+      - [AOT and JIT Compilers](#aot-and-jit-compilers)
     - [Interpreters](#interpreters)
       - [Bytecode Interpreters (Virtual Machines)](#bytecode-interpreters-virtual-machines)
     - [Garbage Collectors](#garbage-collectors)
@@ -68,6 +66,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Green Threads](#green-threads)
   - [Coroutines](#coroutines)
   - [Actor Model](#actor-model)
+  - [SIMD](#simd)
 - [Security](#security)
   - [Cryptography](#cryptography)
   - [Web Applications Security](#web-applications-security)
@@ -171,6 +170,13 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
+## Machine-Oriented Programming
+
+**Related**: [Assembly](#assembly), [SIMD](#simd)
+
+- :paperclip: **Cheat Sheets**
+  - [Intel Architecture Instruction Set Extensions Programming Reference](https://software.intel.com/sites/default/files/managed/c5/15/architecture-instruction-set-extensions-programming-reference.pdf)
+
 ## Systems Programming
 
 ### Operating Systems
@@ -200,6 +206,11 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :book: **Books**
   - [ ] [Programming with POSIX Threads](https://www.amazon.com/Programming-POSIX-Threads-David-Butenhof/dp/0201633922) by David R. Butenhof
+  
+### SIMD
+
+- :paperclip: **Cheat Sheets**
+  - [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 
 ## Security
 
