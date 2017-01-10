@@ -51,6 +51,9 @@ will) include something related to SEO, advertising, marketing etc.
     - [Linux](#linux)
     - [Windows](#windows)
   - [Compilers and Interpreters](#compilers-and-interpreters)
+    - [Compilers](#compilers)
+    - [Interpreters](#interpreters)
+    - [Garbage Collectors](#garbage-collectors)
 - [Networks](#networks)
 - [Databases](#databases)
   - [SQL Databases](#sql-databases)
@@ -201,6 +204,13 @@ will) include something related to SEO, advertising, marketing etc.
   
 - :book: **Books**
   - [ ] [The Linux Kernel Module Programming Guide](https://www.amazon.com/Linux-Kernel-Module-Programming-Guide/dp/1441418865) by Peter Jay Salzman
+  
+### Compilers and Interpreters
+
+#### Garbage Collectors
+
+- :pencil: **Articles**
+  - [ ] [Rust as a Language for High Performance GC Implementation](file:///C:/Users/koleso/Downloads/nicta_publication_full_9260.pdf)
 
 ## Networks
 
