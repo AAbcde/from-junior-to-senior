@@ -21,6 +21,7 @@ will) include something related to SEO, advertising, marketing etc.
 - [Functional Analysis](#functional-analysis)
 - [Geometry](#geometry)
   - [Analytic Geometry](#analytic-geometry)
+- [Linear Algebra](#linear-algebra)
 - [Abstract Algebra](#abstract-algebra)
 - [Category Theory](#category-theory)
 - [Combinatorics and Probability](#combinatorics-and-probability)
@@ -98,7 +99,15 @@ will) include something related to SEO, advertising, marketing etc.
 ### Analytic Geometry
 
 - :mortar_board: **Courses**
-  - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by Khan Academy
+  - [x] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by Khan Academy
+
+## Linear Algebra
+
+- :mortar_board: **Courses**
+  - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+    - [ ] [Vector and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+    - [ ] [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+    - [ ] [Alternate Coordinate Systems](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
 
 ## Abstract Algebra
 
