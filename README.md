@@ -127,7 +127,7 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [ ] [Data Structures Basics](http://algosaur.us/data-structures-basics) by Algosaurus
 - :mortar_board: **Courses**
-  - [ ] [Data Structures](https://www.coursera.org/learn/data-structures) by Coursera
+  - [ ] [Data Structures](https://www.coursera.org/learn/data-structures) by UC San Diego and HSE
 
 ## Algorithms
 
@@ -151,6 +151,9 @@ will) include something related to SEO, advertising, marketing etc.
 
 ### Assembly
 
+- :paperclip: **Cheat Sheets**
+  - [armasm Reference Guide](http://infocenter.arm.com/help/topic/com.arm.doc.dui0802b/ARMCT_armasm_reference_guide_v6_01_DUI0802B_en.pdf)
+  - [Intel and AT&T Syntax Comparison](http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm)
 - :book: **Books**
   - [x] :ru: [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C) by Wikibooks
   
@@ -168,6 +171,9 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :paperclip: **Cheat Sheets**
   - [Intel Architecture Instruction Set Extensions Programming Reference](https://software.intel.com/sites/default/files/managed/c5/15/architecture-instruction-set-extensions-programming-reference.pdf)
+  - [Intel 64 and IA-32 Architectures Optimization Reference Manual](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-optimization-manual.pdf)
+- :mortar_board: **Courses**
+  - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch) by Princeton University
 
 ## Systems Programming
 
@@ -255,6 +261,7 @@ Forums, Q&A:
 - Coding
   - [Cloud9](https://c9.io/) — a development environment in the cloud
   - [Codepen](http://codepen.io/) — a playground for the front end side of the web
+  - [Compiler Explorer](https://godbolt.org) — an interactive online C, C++, D, Rust and Go compiler
   - [Ideone](http://ideone.com/) — a free online IDE, compiler and debugging tool
   - [Repl.It](https://repl.it/) — a REPL, compiler & IDE
   - [RunKit](https://runkit.com/) — a Node prototyping tool
