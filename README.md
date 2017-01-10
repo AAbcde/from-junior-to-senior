@@ -210,7 +210,7 @@ will) include something related to SEO, advertising, marketing etc.
 #### Garbage Collectors
 
 - :pencil: **Articles**
-  - [ ] [Rust as a Language for High Performance GC Implementation](file:///C:/Users/koleso/Downloads/nicta_publication_full_9260.pdf)
+  - [ ] [Rust as a Language for High Performance GC Implementation](http://ts.data61.csiro.au/publications/nictaabstracts/9260.pdf)
 
 ## Networks
 
