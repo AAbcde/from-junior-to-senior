@@ -44,7 +44,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [Functional Programming](#functional-programming)
   - [Logic Programming](#logic-programming)
 - [Design Patterns](#design-patterns)
-- [Machine-Oriented Programming](#machine-oriented-programming)
+- [Computer Architecture](#computer-architecture)
 - [Systems Programming](#systems-programming)
   - [Operating Systems](#operating-systems)
     - [Linux](#linux)
@@ -170,9 +170,7 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
-## Machine-Oriented Programming
-
-**Related**: [Assembly](#assembly), [SIMD](#simd)
+## Computer Architecture
 
 - :paperclip: **Cheat Sheets**
   - [Intel Architecture Instruction Set Extensions Programming Reference](https://software.intel.com/sites/default/files/managed/c5/15/architecture-instruction-set-extensions-programming-reference.pdf)
