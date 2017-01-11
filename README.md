@@ -178,6 +178,7 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) by Brian W. Kernighan and Dennis M. Ritchie
   - [ ] [C Programming Absolute Beginner's Guide](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984) by Greg Perry and Dean Miller
+  - [ ] [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) by Bjarne Stroustrup
   - [ ] [C++ Primer Plus](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402asv) by Stephen Prata
 
 ### Haskell
@@ -187,6 +188,8 @@ will) include something related to SEO, advertising, marketing etc.
   
 ### Rust
 
+- :pencil: **Articles**
+  - [ ] [Wrapper Types in Rust: Choosing Your Guarantees](https://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/) by Manish Goregaokar
 - :book: **Books**
   - [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
@@ -222,6 +225,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [ ] [Rust as a Language for High Performance GC Implementation](http://ts.data61.csiro.au/publications/nictaabstracts/9260.pdf)
+  - [ ] [Designing a GC in Rust](https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/) by Manish Goregaokar
 
 ## Networks
 
