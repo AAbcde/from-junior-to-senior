@@ -143,6 +143,10 @@ will) include something related to SEO, advertising, marketing etc.
 
 ## Algorithms
 
+- :book: **Books**
+  - [ ] [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) by Donald E. Knuth
+  - [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_sim_14_3?_encoding=UTF8&psc=1&refRID=261YMEZJ1FKVM8BHZZFH) by Harold Abelson, Gerald Jay Sussman and Julie Sussman
+
 ### Basic algorithms
 
 #### Sorting
@@ -168,7 +172,14 @@ will) include something related to SEO, advertising, marketing etc.
   - [Intel and AT&T Syntax Comparison](http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm)
 - :book: **Books**
   - [x] :ru: [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C) by Wikibooks
-  
+
+### C/C++
+
+- :book: **Books**
+  - [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) by Brian W. Kernighan and Dennis M. Ritchie
+  - [ ] [C Programming Absolute Beginner's Guide](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984) by Greg Perry and Dean Miller
+  - [ ] [C++ Primer Plus](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402asv) by Stephen Prata
+
 ### Haskell
 
 - :book: **Books**
