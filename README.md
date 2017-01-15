@@ -96,6 +96,8 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by Better Explained
+- :book: **Books**
+  - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
   
 ## Geometry
 
