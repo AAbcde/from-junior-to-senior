@@ -223,6 +223,9 @@ will) include something related to SEO, advertising, marketing etc.
   
 ### Compilers and Interpreters
 
+- :book: **Books**
+  - [ ] [Crafting Interpreters](http://www.craftinginterpreters.com/) by Bob Nystorm
+
 #### Garbage Collectors
 
 - :pencil: **Articles**
