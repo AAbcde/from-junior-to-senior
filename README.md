@@ -10,7 +10,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 ## Usage
 
-1. Fork this repo
+1. Fork this repo11
 2. Mark all items as undone
 3. Add missing topics (optional)
 4. Study!
@@ -167,6 +167,10 @@ will) include something related to SEO, advertising, marketing etc.
   
 ## Programming Languages
 
+- :zap: **Practice**
+  - [Exercism](http://exercism.io)
+  - [Codewars](https://codewars.com)
+
 ### Assembly
 
 - :paperclip: **Cheat Sheets**
@@ -278,6 +282,9 @@ You can find more courses, articles, videos etc here:
 - [Khan Academy](https://www.khanacademy.org)
 - [Codecademy](https://www.codecademy.com)
 - [Better Explained](https://betterexplained.com)
+
+Online documentation:
+
 - [StackOverflow Documentation](http://stackoverflow.com/documentation)
 - [DevDocs](http://devdocs.io)
 
