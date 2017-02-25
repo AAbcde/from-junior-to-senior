@@ -10,7 +10,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 ## Usage
 
-1. Fork this repo11
+1. Fork this repo
 2. Mark all items as undone
 3. Add missing topics (optional)
 4. Study!
