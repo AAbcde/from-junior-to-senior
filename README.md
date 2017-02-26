@@ -227,8 +227,17 @@ will) include something related to SEO, advertising, marketing etc.
   
 ### Compilers and Interpreters
 
+#### Compilers
+
+- :book: **Books**
+  - [ ] [Write You a Haskell](http://dev.stephendiehl.com/fun/) by Stephen Diehl
+
+#### Interpreters
+
 - :book: **Books**
   - [ ] [Crafting Interpreters](http://www.craftinginterpreters.com/) by Bob Nystorm
+  - [ ] [Beautiful Racket](http://beautifulracket.com/) by Matthew Butterick
+  - [ ] [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) by Jonathan Tang
 
 #### Garbage Collectors
 
