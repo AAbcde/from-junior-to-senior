@@ -216,6 +216,7 @@ will) include something related to SEO, advertising, marketing etc.
 - :book: **Books**
   - [ ] [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) by Andrew S. Tanenbaum
   - [ ] [IntermezzOS](https://intermezzos.github.io/book/)
+  - [ ] [The little book about OS development](https://littleosbook.github.io/) by Erik Helin and Adam Renberg
   
 #### Linux
 
