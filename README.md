@@ -135,6 +135,7 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :book: **Books**
   - [ ] [Homotopy Type Theory](https://homotopytypetheory.org) by Vladimir Voevodsky
+  - [ ] [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091) by Benjamin C. Pierce
   
 ## Data Structures
 
