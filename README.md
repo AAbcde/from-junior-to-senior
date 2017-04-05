@@ -83,6 +83,8 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :pencil: **Articles**
   - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
+- :book: **Books**
+  - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
     - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
@@ -97,7 +99,6 @@ will) include something related to SEO, advertising, marketing etc.
 - :pencil: **Articles**
   - [ ] [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform) by Better Explained
 - :book: **Books**
-  - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
   
 ## Geometry
 
