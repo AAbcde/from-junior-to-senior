@@ -281,11 +281,12 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [XSS Game](https://xss-game.appspot.com/)
 
 ## See also
-- [Open Source Society University](https://github.com/open-source-society/computer-science) — path to a free self-taught education in Computer Science
-- [Free Programming Books](https://github.com/vhf/free-programming-books) — freely available programming books
-- [Google Interview University](https://github.com/jwasham/google-interview-university) — a complete daily plan for studying to become a Google software engineer
-- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) — a complete daily plan for studying to become a machine learning engineer (inspired by Google Interview University)
-- [What happens when...](https://github.com/alex/what-happens-when) — an attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Open Source Society University](https://github.com/open-source-society/computer-science)
+- [Free Programming Books](https://github.com/vhf/free-programming-books)
+- [Google Interview University](https://github.com/jwasham/google-interview-university)
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [What happens when...](https://github.com/alex/what-happens-when)
 
 ## Resources
 
