@@ -281,6 +281,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] [XSS Game](https://xss-game.appspot.com/)
 
 ## See also
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
@@ -304,9 +305,9 @@ Online documentation:
 
 [Wikimedia Foundation](https://www.wikimedia.org/) projects:
 
-- [Wikipedia](https://www.wikipedia.org) — a free online encyclopedia
-- [Wikibooks](https://www.wikibooks.org/) — a collection of free textbooks
-- [Wikiversity](https://www.wikiversity.org/) — a collection of tutorials and courses
+- [Wikipedia](https://www.wikipedia.org)
+- [Wikibooks](https://www.wikibooks.org)
+- [Wikiversity](https://www.wikiversity.org)
 
 Forums, Q&A:
 
