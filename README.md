@@ -1,5 +1,8 @@
 # From junior to senior
 
+<img src="https://cdn.rawgit.com/KolesnichenkoDS/from-junior-to-senior/master/sicp.jpg"
+     width="300">
+
 My study plan for going from junior to senior software developer (i. e. from level 1 to level 3 of the
 [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix)). Inspired by
 [Google Interview University](https://github.com/jwasham/google-interview-university).
